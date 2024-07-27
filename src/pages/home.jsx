@@ -1,6 +1,6 @@
 
 function Home() {
-  return <div>Home content</div>;
+  return <div className="mt-2">Home content</div>;
 }
 
 export default Home;

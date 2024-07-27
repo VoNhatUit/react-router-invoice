@@ -24,3 +24,9 @@ body {
   a.active {
     color: green;
   }
+  .nav-link-selected {
+    color: blue;
+  }
+  .bg-img {
+    background-image: url(https://www.canva.com/p/templates/EAF5FxQlSGQ-blue-and-white-illustrated-sky-and-airplane-desktop-wallpaper/#)
+  }
